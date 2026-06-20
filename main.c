@@ -24,7 +24,7 @@
  */
 int main( void )
 {
-	printf("senai");
+	//printf("senai");
 	/**
 	 * Para usar qualquer GPIO antes é necessário configurar o sentido (entrada ou saída);
 	 * Configura todos os pinos do PORTB como saída; 
